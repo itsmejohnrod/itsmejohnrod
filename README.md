@@ -5,14 +5,14 @@ Welcome to my GitHub profile. I am a BS Information Tecnology student exploring 
 ---
 
 ## 🎓 Education  
-- **Bachelor of Science in Computer Science**  
+- **Bachelor of Science in Information Technology**  
   New Era University  
   2023 - Present  
 
 ---
 
 ## 📜 Certifications  
-- [SQL and Relational Databases 101 Certificate](#)
+- [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/cb7daa3df3f944a298d8705def9317b3)
 
 ---
 
