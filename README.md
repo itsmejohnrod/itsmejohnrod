@@ -13,6 +13,7 @@ Welcome to my GitHub profile. I am a BS Information Tecnology student exploring 
 
 ## 📜 Certifications  
 - [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/cb7daa3df3f944a298d8705def9317b3)
+- [OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1FF03C8E250310833E3744923DBB2E23D5A1F567C75364F0842D3E1B74596BA2)
 
 ---
 
